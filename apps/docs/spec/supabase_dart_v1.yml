@@ -1892,7 +1892,7 @@ functions:
               "data": [
                 {
                   "name": "strings",
-                  "characters": [
+                  "instruments": [
                     {
                       "name": "violin"
                     }
